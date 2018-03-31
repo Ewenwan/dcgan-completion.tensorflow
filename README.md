@@ -1,5 +1,7 @@
 # 图像修复  
 
+[教程](http://bamos.github.io/2016/08/09/deep-completion/)
+
 # Image Completion with Deep Learning in TensorFlow
 
 ![](/completion.compressed.gif)
