@@ -1,4 +1,6 @@
-# 图像修复  Image Completion with Deep Learning in TensorFlow
+# 图像修复  
+
+# Image Completion with Deep Learning in TensorFlow
 
 ![](/completion.compressed.gif)
 
